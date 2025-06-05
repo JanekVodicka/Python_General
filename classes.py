@@ -83,4 +83,4 @@ app_user_1.get_user_info()
 app_user_1.change_job("DevOps trainer")
 app_user_1.get_user_info()
 
-app_user:2 = User("jj@jj.com", "James Bond", "psw2", "Agent")
+app_user_2 = User("jj@jj.com", "James Bond", "psw2", "Agent")
